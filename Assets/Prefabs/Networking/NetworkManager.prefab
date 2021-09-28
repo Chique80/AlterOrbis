@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3772719824587238800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3772719824587238813}
+  - component: {fileID: 3561086315479165219}
+  - component: {fileID: -3988292740547769318}
+  - component: {fileID: -614654401368346506}
+  - component: {fileID: 5890445076530422314}
+  - component: {fileID: 2980784126628570341}
+  - component: {fileID: 8558324636325616639}
+  m_Layer: 0
+  m_Name: NetworkManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3772719824587238813
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3772719824587238800}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3561086315479165219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3772719824587238800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa5962ad1a47c2a4e84e48db2e4238ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dontDestroyOnLoad: 1
+  runInBackground: 1
+  autoStartServerBuild: 1
+  showDebugMessages: 0
+  serverTickRate: 30
+  serverBatching: 0
+  serverBatchInterval: 0
+  offlineScene: 
+  onlineScene: 
+  transport: {fileID: 8558324636325616639}
+  networkAddress: localhost
+  maxConnections: 100
+  disconnectInactiveConnections: 0
+  disconnectInactiveTimeout: 60
+  authenticator: {fileID: 0}
+  playerPrefab: {fileID: 8106827658438322033, guid: 43f8f067ffed79447a0831203183252d,
+    type: 3}
+  autoCreatePlayer: 1
+  playerSpawnMethod: 1
+  spawnPrefabs: []
+  showRoomGUI: 1
+  minPlayers: 1
+  roomPlayerPrefab: {fileID: 1311331149310411441, guid: 24bcd9cc3ce31384cbe0fd72fb47773f,
+    type: 3}
+  RoomScene: 
+  GameplayScene: 
+  _allPlayersReady: 0
+  roomSlots: []
+  clientIndex: 0
+  m_LogLevel: 2
+  OnRoomStartClientEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomStopClientEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomClientConnectEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomClientDisconnectEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomClientEnterEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomClientExitEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomClientAddPlayerFailedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnClientSceneChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomStartHostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomStopHostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomStartServerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnServerAddPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomServerCreateRoomPlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomServerCreateGamePlayerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomServerConnectEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomServerDisconnectEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnServerReadyEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnServerSceneChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRoomServerPlayersReadyEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnLobbyServerPlayerQuitEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnStartGameEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &-3988292740547769318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3772719824587238800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6d5cf5ba10d62449adf60bcfd2269c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PlayerPrefabs:
+    reorderableList:
+      canAdd: 0
+      canRemove: 0
+      draggable: 0
+      expandable: 0
+      multipleSelection: 0
+      isExpanded: 0
+      label:
+        m_Text: 
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 0
+      footerHeight: 0
+      slideEasing: 0
+      verticalSpacing: 0
+      showDefaultBackground: 0
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 
+    _keys: 
+    _values: []
+--- !u!114 &-614654401368346506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3772719824587238800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a25a529ab6042ee4dabc584975ce6945, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  randomMatchName: 1
+  matchName: 99999
+  matchNameSize: 5
+  OnCreateMatchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnSuccessfulCreateMatchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnFailedCreateMatchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnSearchMatchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnMatchNotFoundEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnMatchFoundEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnJoinMatchEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &5890445076530422314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3772719824587238800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef4bffeda13d7a748973ff9204401c07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2980784126628570341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3772719824587238800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea368fb6f27ec2f40a40e20977992b9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Channels: 0200000001000000
+  Timeout: 25
+  SteamAppID: 480
+  AllowSteamRelay: 1
+  SteamUserID: 0
+--- !u!114 &8558324636325616639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3772719824587238800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7424c1070fad4ba2a7a96b02fbeb4bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  port: 7777
+  NoDelay: 1
+  SendTimeout: 5000
+  ReceiveTimeout: 30000
+  serverMaxMessageSize: 16384
+  serverMaxReceivesPerTick: 10000
+  serverSendQueueLimitPerConnection: 10000
+  serverReceiveQueueLimitPerConnection: 10000
+  clientMaxMessageSize: 16384
+  clientMaxReceivesPerTick: 1000
+  clientSendQueueLimit: 10000
+  clientReceiveQueueLimit: 10000
