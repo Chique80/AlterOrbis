@@ -1,0 +1,12 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public enum PlayerType
+{
+    None,
+    Leaf,
+    Snail,
+    Rope,
+    Gun
+}
