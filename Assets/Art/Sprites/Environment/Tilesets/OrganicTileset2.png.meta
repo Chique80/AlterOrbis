@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 9fc8d812e061bcb4eb80920f42a60fff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4033200216691160508
+    second: OrganicTileset2_0
+  - first:
+      213: 8949339418528392605
+    second: OrganicTileset2_1
+  - first:
+      213: -3372707999386848695
+    second: OrganicTileset2_2
+  - first:
+      213: 2271715680377466370
+    second: OrganicTileset2_3
+  - first:
+      213: 2361736040919663386
+    second: OrganicTileset2_4
+  - first:
+      213: 5967169711634638588
+    second: OrganicTileset2_5
+  - first:
+      213: 1319169549269048687
+    second: OrganicTileset2_6
+  - first:
+      213: 6814114549297194974
+    second: OrganicTileset2_7
+  - first:
+      213: 4089934688972593130
+    second: OrganicTileset2_8
+  - first:
+      213: 353096245715035241
+    second: OrganicTileset2_9
+  - first:
+      213: -2100946934261132665
+    second: OrganicTileset2_10
+  - first:
+      213: -38318674082272807
+    second: OrganicTileset2_11
+  - first:
+      213: 1089524836787256453
+    second: OrganicTileset2_12
+  - first:
+      213: 7934636395605396636
+    second: OrganicTileset2_13
+  - first:
+      213: 6744097124212580759
+    second: OrganicTileset2_14
+  - first:
+      213: -1022164842509062590
+    second: OrganicTileset2_15
+  - first:
+      213: -4874698185612658228
+    second: OrganicTileset2_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrganicTileset2_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 592
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5279468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a481095c13708c0800000000000000
+      internalID: -4033200216691160508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 593
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9529c719c0723c70800000000000000
+      internalID: 8949339418528392605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 592
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942bd65a1fbb131d0800000000000000
+      internalID: -3372707999386848695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 507
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e659f0061c68f10800000000000000
+      internalID: 2271715680377466370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 423
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13014c8a6296c020800000000000000
+      internalID: 2361736040919663386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 423
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e370cc35afc250800000000000000
+      internalID: 5967169711634638588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 424
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d91be37b1ae4210800000000000000
+      internalID: 1319169549269048687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 417
+        width: 85
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed72ea17419909e50800000000000000
+      internalID: 6814114549297194974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_8
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 417
+        width: 197
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae752c22eed52c830800000000000000
+      internalID: 4089934688972593130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 253
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646e592a2376e400800000000000000
+      internalID: 353096245715035241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 127
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7825b6305efe7d2e0800000000000000
+      internalID: -2100946934261132665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 249
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9ef037e5dd77ff0800000000000000
+      internalID: -38318674082272807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 251
+        width: 65
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7ba60115ce1f00800000000000000
+      internalID: 1089524836787256453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 301
+        width: 301
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c02f523cd7d1e60800000000000000
+      internalID: 7934636395605396636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 177
+        width: 102
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ac6b4a98d79d50800000000000000
+      internalID: 6744097124212580759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_15
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 171
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eaa5ccd7a80d1f0800000000000000
+      internalID: -1022164842509062590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrganicTileset2_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 189
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9f053d3d7995cb0800000000000000
+      internalID: -4874698185612658228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7cd1d95e20563fe44a6c10ac387c25f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

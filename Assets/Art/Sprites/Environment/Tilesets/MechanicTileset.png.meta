@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 98441cd88b9a17f41af77aa17bcb2bc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -299529759665306222
+    second: MechanicTileset_0
+  - first:
+      213: -709527054949437885
+    second: MechanicTileset_1
+  - first:
+      213: 7490606100565475251
+    second: MechanicTileset_2
+  - first:
+      213: -8276348907004661736
+    second: MechanicTileset_3
+  - first:
+      213: 8558880065470958133
+    second: MechanicTileset_4
+  - first:
+      213: -8443899508709201212
+    second: MechanicTileset_5
+  - first:
+      213: 5446915699076354888
+    second: MechanicTileset_6
+  - first:
+      213: 497949953890102824
+    second: MechanicTileset_7
+  - first:
+      213: -7025208080760387227
+    second: MechanicTileset_8
+  - first:
+      213: -2640122420195613296
+    second: MechanicTileset_9
+  - first:
+      213: -2955648839327395193
+    second: MechanicTileset_10
+  - first:
+      213: -6905751278961116357
+    second: MechanicTileset_11
+  - first:
+      213: -5895012055407309421
+    second: MechanicTileset_12
+  - first:
+      213: -5881176852415734572
+    second: MechanicTileset_13
+  - first:
+      213: -6898015953559410416
+    second: MechanicTileset_14
+  - first:
+      213: -2157449743260980243
+    second: MechanicTileset_15
+  - first:
+      213: -9025450431948115422
+    second: MechanicTileset_16
+  - first:
+      213: -8871804215534154869
+    second: MechanicTileset_17
+  - first:
+      213: 8445869981530749649
+    second: MechanicTileset_18
+  - first:
+      213: 5329355507043286840
+    second: MechanicTileset_19
+  - first:
+      213: -1662519822945091898
+    second: MechanicTileset_20
+  - first:
+      213: -3499963157970860333
+    second: MechanicTileset_21
+  - first:
+      213: -1862649557243066377
+    second: MechanicTileset_22
+  - first:
+      213: -1482297120186378316
+    second: MechanicTileset_23
+  - first:
+      213: -4794361855451413119
+    second: MechanicTileset_24
+  - first:
+      213: 3491872916104389561
+    second: MechanicTileset_25
+  - first:
+      213: -2936290710188078822
+    second: MechanicTileset_26
+  - first:
+      213: -5174477000516500399
+    second: MechanicTileset_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 122
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MechanicTileset_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1791
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295cd73454bd7dbf0800000000000000
+      internalID: -299529759665306222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1791
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea53b17e04726f0800000000000000
+      internalID: -709527054949437885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1794
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf3490cf8af3f760800000000000000
+      internalID: 7490606100565475251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_3
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1795
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8107bc0e480842d80800000000000000
+      internalID: -8276348907004661736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1794
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a8199921047c670800000000000000
+      internalID: 8558880065470958133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_5
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caea40722e31da80800000000000000
+      internalID: -8443899508709201212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1284
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843d1f428f4579b40800000000000000
+      internalID: 5446915699076354888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1284
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eaa8548d219e600800000000000000
+      internalID: 497949953890102824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1286
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569c211c872718e90800000000000000
+      internalID: -7025208080760387227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1277
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09522b495a66c5bd0800000000000000
+      internalID: -2640122420195613296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1277
+        width: 250
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78258135a0d6bf6d0800000000000000
+      internalID: -2955648839327395193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_11
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bb25eccc7d920a0800000000000000
+      internalID: -6905751278961116357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_12
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1023
+        width: 245
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d4dcac4c5b03ea0800000000000000
+      internalID: -5895012055407309421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 764
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc928200dcd16ea0800000000000000
+      internalID: -5881176852415734572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 770
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0192d1999035540a0800000000000000
+      internalID: -6898015953559410416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debeb20a3e23f02e0800000000000000
+      internalID: -2157449743260980243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_16
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 766
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22236d9a6a82fb280800000000000000
+      internalID: -9025450431948115422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_17
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 764
+        width: 134
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b0640221501e480800000000000000
+      internalID: -8871804215534154869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 775
+        width: 250
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da76440002c53570800000000000000
+      internalID: 8445869981530749649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 510
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f3617f89ca5f940800000000000000
+      internalID: 5329355507043286840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 509
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceff49870b8de8e0800000000000000
+      internalID: -1662519822945091898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 508
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6413a2d02ad6fc0800000000000000
+      internalID: -3499963157970860333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_22
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 513
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f70d7fa81a8626e0800000000000000
+      internalID: -1862649557243066377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_23
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 510
+        width: 155
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d4bb6f92dd6be0800000000000000
+      internalID: -1482297120186378316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_24
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 510
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185c2294b41077db0800000000000000
+      internalID: -4794361855451413119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3a53d9aef957030800000000000000
+      internalID: 3491872916104389561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_26
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19c5fdf7233047d0800000000000000
+      internalID: -2936290710188078822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MechanicTileset_27
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 255
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15409c565909038b0800000000000000
+      internalID: -5174477000516500399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8cc204d0e4775874aaa182741932475a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
